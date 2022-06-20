@@ -1,5 +1,5 @@
-# Kent vejrup Madsen
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+# Profile
+| Kent vejrup Madsen |
+| ------------------ |
+| Header             |
+| Paragraph          |
