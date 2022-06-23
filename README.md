@@ -10,6 +10,8 @@
 | [linkedin](https://www.linkedin.com/in/kent-vejrup-madsen/)  |
 
 
-| Packages                                                     |
-| ------------------------------------------------------------ |
-| [npm](https://www.npmjs.com/~kentvejrupmadsen)               |
+| Package Managers                                                 |
+| ---------------------------------------------------------------- |
+| [npm, profile](https://www.npmjs.com/~kentvejrupmadsen)          |
+| [docker profile](https://hub.docker.com/u/designermadsen)        |
+| [packagist profile](https://packagist.org/users/designermadsen/) |
