@@ -12,9 +12,10 @@
 | [youtube](https://www.youtube.com/channel/UCKKk3v5CdelOvhFcmvJ9Biw) |
 
 
-| Package Managers                                                 |
-| ---------------------------------------------------------------- |
-| [npm, profile](https://www.npmjs.com/~kentvejrupmadsen)          |
-| [docker profile](https://hub.docker.com/u/designermadsen)        |
-| [packagist profile](https://packagist.org/users/designermadsen/) |
-| [crates profile](https://crates.io/users/kentvejrupmadsen) |
+| Package Managers                                                  |
+| ----------------------------------------------------------------- |
+| [npm, profile](https://www.npmjs.com/~kentvejrupmadsen)           |
+| [docker, profile](https://hub.docker.com/u/designermadsen)        |
+| [packagist, profile](https://packagist.org/users/designermadsen/) |
+| [crates, profile](https://crates.io/users/kentvejrupmadsen)       |
+| [nuget, profile](https://www.nuget.org/profiles/GoalPioneers)     |
