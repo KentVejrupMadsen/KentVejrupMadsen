@@ -1,5 +1,5 @@
 # Profile
-![toasters](./background.jpg)
+![Water Tower](./water_tower_background.jpg)
 
 ## Content
 
