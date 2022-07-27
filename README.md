@@ -11,6 +11,9 @@ Beside studying a BSc. i have a Multimediadesigner AK education too,
 which I completed at [Business Academy of Southwest](https://www.easv.dk/en/).
 
 
+## Code
+
+### Development
 | Programming Languages | Interested in      |
 | --------------------- | ------------------ |
 | JavaScript            | Rust               |
@@ -21,6 +24,14 @@ which I completed at [Business Academy of Southwest](https://www.easv.dk/en/).
 | C++                   | Kotlin             |
 |                       |                    |
 
+### Web development
+| Tools used            |
+| --------------------- |
+| JavaScript            |
+| HTML                  |
+| CSS                   |
+| Sass                  |
+|                       |
 
 
 Topics i am interested in:
@@ -28,8 +39,6 @@ Topics i am interested in:
 | -------------------- | ------------------ |
 |                      |                    |
 
-
-## Code
 
 
 ## Projects
