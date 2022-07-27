@@ -20,9 +20,9 @@ which I completed at [Business Academy of Southwest](https://www.easv.dk/en/).
 | Python                | Haskell            |
 | Java                  | Scala              |
 | C#                    | Go                 |
-| PHP                   | TypeScript         |
-| C++                   | Kotlin             |
-|                       |                    |
+| C++                   | TypeScript         |
+|                       | Kotlin             |
+
 
 ### Web development
 | Tools used            |
@@ -31,7 +31,8 @@ which I completed at [Business Academy of Southwest](https://www.easv.dk/en/).
 | HTML                  |
 | CSS                   |
 | Sass                  |
-|                       |
+| PHP                      |
+
 
 
 Topics i am interested in:
