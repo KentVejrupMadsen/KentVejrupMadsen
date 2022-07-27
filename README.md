@@ -7,6 +7,26 @@
 ## About me
 28 Years old and currently studying BSc. in Web Development 
 at [Business Academy of Southwest](https://www.easv.dk/en/), in Denmark, Esbjerg.
+Beside studying a BSc. i have a Multimediadesigner AK education too, 
+which I completed at [Business Academy of Southwest](https://www.easv.dk/en/).
+
+
+| Programming Languages | Interested in      |
+| --------------------- | ------------------ |
+| JavaScript            | Rust               |
+| Python                | Haskell            |
+| Java                  | Scala              |
+| C#                    | Go                 |
+| PHP                   | TypeScript         |
+| C++                   | Kotlin             |
+|                       |                    |
+
+
+
+Topics i am interested in:
+| Topics               |                    |
+| -------------------- | ------------------ |
+|                      |                    |
 
 
 ## Code
