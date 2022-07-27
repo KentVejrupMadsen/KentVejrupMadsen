@@ -2,8 +2,8 @@
 ![Water Tower](./water_tower_background.jpg)
 
 ## Content
-1. [licenses](licenses/readme.md)
-2. [lookup](lookup/readme.md)
+1. [Licenses](licenses/readme.md)
+2. [Documentation](docs/readme.md)
 
 ## About me
 28 Years old and currently studying BSc. in Web Development 
