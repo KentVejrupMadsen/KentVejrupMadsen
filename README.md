@@ -56,3 +56,7 @@ of the group [GoalPioneers](https://stats.foldingathome.org/team/258462) on fold
 * Created at: 20 Juni 2022
 * Last updated at: 27 July 2022
 * Copyright 2022 Kent vejrup Madsen
+
+<div align="right">
+<a rel="me" href="https://mastodon.social/@Designermadsen">Mastodon</a>
+</div>
